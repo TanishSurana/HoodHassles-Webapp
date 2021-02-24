@@ -1,5 +1,4 @@
 # Final Project: HoodHassles
-https://github.com/TanishSurana/HoodHassles-Webapp/blob/main/README.md
 Web Programming with Python and JavaScript
 
 
